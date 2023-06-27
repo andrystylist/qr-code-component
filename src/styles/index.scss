@@ -1,0 +1,10 @@
+@use './reset';
+@use './variables';
+
+:root {
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  background: rgb(237, 237, 237) url('/background.png');
+}
